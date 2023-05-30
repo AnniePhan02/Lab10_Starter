@@ -7,4 +7,4 @@ For my 2nd feature flag, I wanted to add a feature that when the site is loaded,
 
 https://anniephan02.github.io/Lab10_Starter/index.html
 
-https://anniephan02.github.io/Lab10_Starter/speechSynthesis.html
+https://anniephan02.github.io/Lab10_Starter/speechSynth.html
